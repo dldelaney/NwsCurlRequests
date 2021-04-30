@@ -1,0 +1,3 @@
+﻿  CurlTest.cpp
+C:\Users\delan\source\repos\WeatherApp\WeatherApp\CurlTest.h(94,27): warning C4018: '<': signed/unsigned mismatch
+  WeatherApp.vcxproj -> C:\Users\delan\source\repos\WeatherApp\Debug\WeatherApp.exe
